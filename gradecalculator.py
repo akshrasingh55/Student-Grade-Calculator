@@ -36,7 +36,6 @@ else:
     grade = "F"
     feedback = "Fail. Work harder next time."
 
-# Display Output
 print("\n Result")
 print("Total Marks:", total)
 print("Average Marks:", average)
